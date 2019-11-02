@@ -67,6 +67,7 @@ html {
 .square__object-stretch {
   width: 20px;
   height: 30%;
+  margin-right: 7px;
   background-color: white;
   animation: Squarestretch 1.5s infinite ease-in-out;
 }
